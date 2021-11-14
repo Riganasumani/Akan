@@ -1,3 +1,15 @@
-body{ background-color: gray;
-
+body{
+    background-color: gray;
+}
+table{
+    
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    
 }
